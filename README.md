@@ -12,7 +12,7 @@ Jigsaw/memory puzzle?
 
 ##If you plan to collaborate with one or two classmates, what are their names?
 
-Jade O'Dowd
+Jade O'Dowd, Olivia Walton
 
 ##Do you have any questions of your own?
 How do you create/attach a sprite?
