@@ -12,6 +12,7 @@ Jigsaw/memory puzzle?
 
 ##If you plan to collaborate with one or two classmates, what are their names?
 
+Olivia Walton
 Jade O'Dowd
 
 ##Do you have any questions of your own?
